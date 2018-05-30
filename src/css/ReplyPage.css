@@ -1,0 +1,47 @@
+.am-modal.am-modal-transparent.am-modal-android .am-modal-content .am-modal-body {
+    font-size: 0.32rem;
+    color: #000;
+    text-align: center;
+    padding: 0 0.48rem 0.3rem;
+    line-height: 1.5;
+}
+
+.am-modal.am-modal-transparent.am-modal-android .am-modal-content .am-modal-body {
+    font-size: 0.26rem;
+    color: #888;
+    height: 100%;
+    overflow: auto;
+}
+
+
+.am-modal.am-modal-transparent.am-modal-android .am-modal-content .am-modal-footer .am-modal-button-group-v {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack:center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    overflow: hidden;
+    padding: 0rem;
+}
+
+.am-modal.am-modal-transparent.am-modal-android .am-modal-content .am-modal-footer {
+    padding-bottom: 0rem;
+}
+
+.am-modal.am-modal-transparent.am-modal-android .am-modal-content .am-modal-footer .am-modal-button-group-h {
+    overflow: hidden;
+    border-top: 0;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    padding: 0rem;
+}
+
+.am-modal.am-modal-transparent.am-modal-android .am-modal-content {
+    border-radius: 0.1rem;
+}
+
+.am-modal-button-group-h {
+    border-top: 0px;
+}

@@ -1,0 +1,30 @@
+.question {
+    margin: 0.2rem;
+    border: 1px solid #DDD;
+    border-radius: 0.1rem;
+    background-color: #fff;
+    padding: 0.1rem 0rem;
+}
+
+.question .am-checkbox-item.am-list-item.am-list-item-middle {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0.3rem;
+    min-height: 0.88rem;
+    background-color: #fff;
+    vertical-align: middle;
+    overflow: hidden;
+    transition: background-color 200ms;
+    align-items:flex-start;
+    -webkit-align-items:flex-start;
+    box-align:flex-start;
+    -moz-box-align:start;
+    -webkit-box-align:start;
+}
+
+.question .am-list-item .am-list-thumb:first-child {
+    margin-right: 0.3rem;
+    margin-top: 0.22rem;
+}
